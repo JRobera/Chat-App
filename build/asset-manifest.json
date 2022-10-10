@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.ac52e1f9.js",
-    "index.html": "/index.html",
-    "main.ac52e1f9.js.map": "/static/js/main.ac52e1f9.js.map"
+    "main.js": "/Chat-App/static/js/main.ac52e1f9.js",
+    "index.html": "/Chat-App/index.html",
+    "main.ac52e1f9.js.map": "/Chat-App/static/js/main.ac52e1f9.js.map"
   },
   "entrypoints": [
     "static/js/main.ac52e1f9.js"
